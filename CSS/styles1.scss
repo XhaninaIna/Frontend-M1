@@ -1,0 +1,13 @@
+// styles.scss
+
+// Import Glide.js core styles
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.core";
+
+// Import Glide.js theme styles (optional)
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.theme";
+
+// Your additional custom styles go here
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
